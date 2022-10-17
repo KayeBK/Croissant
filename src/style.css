@@ -1,0 +1,10 @@
+body {
+    background-color: palegoldenrod;
+    text-align: center;
+    margin: 100px;
+}
+
+#croissant-photo {
+    max-width: 400px;
+    padding-bottom: 40px;
+}
